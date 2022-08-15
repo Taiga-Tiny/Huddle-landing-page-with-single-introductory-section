@@ -334,11 +334,11 @@ html {
 }
 
 body {
-  background: url("./images/bg-mobile.svg") no-repeat, hsl(257deg, 40%, 49%);
+  background: url("../src/images/bg-mobile.svg") no-repeat, hsl(257deg, 40%, 49%);
 }
 @media (min-width: 750px) {
   body {
-    background: url("./images/bg-desktop.svg") no-repeat, hsl(257deg, 40%, 49%);
+    background: url("../src/images/bg-desktop.svg") no-repeat, hsl(257deg, 40%, 49%);
   }
 }
 @media (min-width: 1440px) {
